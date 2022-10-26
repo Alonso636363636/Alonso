@@ -1,0 +1,20 @@
+/*
+    Descripcion: Tablas
+    Autor: Fernando Alonso Fernandez Martinez
+    Fecha: 24/10/2022
+*/
+html {
+    height: 100%;
+}
+
+body {
+    background: linear-gradient(orange, pink);
+    height: 100%;
+}
+
+h1 {
+    color: white;
+}
+h4 {
+    color: white;
+}
